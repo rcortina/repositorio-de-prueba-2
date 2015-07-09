@@ -7,10 +7,7 @@
 
 <body>
 	<?php
-		echo "Archivo de repositorio de prueba 2";
-		echo "Esta es una modificacion al archivo de repositorio de prueba 2";
-		echo "Cambio de Roberto";
-		echo "Prueba Memo";
+		echo "archivo de memo";
 	?>
 </body>
 </html>
